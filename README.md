@@ -13,7 +13,6 @@ Matricula: 900399
 
 ![Screenshot 2](images/screenshot_2.png)
 
-gi
 ## Orientações sobre Linguagem MarkDown
 
 Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto em Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
