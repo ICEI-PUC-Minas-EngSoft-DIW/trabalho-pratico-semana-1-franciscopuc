@@ -2,8 +2,8 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Francisco Maycon Lima Castro
+Matricula: 900399
 
 ## Tela de inspeção com navegador
 
@@ -11,7 +11,7 @@ Matricula:
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Screenshot 2](images/screenshot_2.png)
 
 gi
 ## Orientações sobre Linguagem MarkDown
