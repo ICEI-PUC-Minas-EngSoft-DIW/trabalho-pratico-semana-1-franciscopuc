@@ -7,7 +7,7 @@ Matricula:
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Screenshot 1](images/screenshot_1.png)
 
 ## Tela de projeto no Replit
 
